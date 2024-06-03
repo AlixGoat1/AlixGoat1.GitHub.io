@@ -1,0 +1,15 @@
+#about-me {
+  margin: 20px auto; /* Add some margin for better spacing */
+  padding: 20px;
+  border: 1px solid #ddd; /* Optional: Add a border for a styled section */
+  border-radius: 5px; /* Optional: Add rounded corners for a softer look */
+}
+
+#about-me h2 {
+  text-align: center; /* Center the title */
+  margin-bottom: 10px;
+}
+
+#about-me p {
+  line-height: 1.5; /* Increase line spacing for better readability */
+}
