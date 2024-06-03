@@ -1,2 +1,2 @@
-# AlixGoat1.github.io
-This is a Test Website
+# AlixGoat1's Bio
+I am a 16 Year Old roblox player. I like police roleplay games. I also do alot of bot moderation my main 2 servers are BotUtils https://discord.gg/utilibots-618115853178634240 and Cloud https://discord.gg/Hz73MN84eh . I also own a embed buisness which hasnt really started. https://discord.gg/Hz73MN84eh . We do free embeds and ones that cost robux. I ones that cost robux get higher priorty and are more advanced. If you have any inquires join our server and open a ticket. Or DM me https://discord.com/users/1057363856256675951 .
