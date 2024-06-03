@@ -18,9 +18,9 @@ Hi there! I'm AlixGoat1, a 16-year-old with a passion for Roblox and server mana
 
 If you have any questions or inquiries about my projects, feel free to join one of the Discord servers below:
 
-**Server 1:** [https://discord.gg/utilibots-618115853178634240](**Focuses on Bot Utilities**)
+**Server 1:** [**Focuses on Bot Utilities**](https://discord.gg/utilibots-618115853178634240)
 
-**Server 2:** [https://discord.gg/Hz73MN84eh](**Coming Soon: Embeds**)
+**Server 2:** [**Coming Soon: Embeds**](https://discord.gg/Hz73MN84eh)
 
 **Direct Message:** You can also send me a direct message on Discord: `AlixGoat1#7880` (**Please note: This may not be the most efficient way to reach me for project inquiries.**)
 
